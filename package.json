@@ -11,6 +11,10 @@
   ],
   "author": "Heeryong Kang <drakang4@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drakang4/decompress-crx"
+  },
   "keywords": [
     "decompress",
     "decompressplugin",
