@@ -1,11 +1,11 @@
-# decompress-unzip
+# decompress-crx
 
 > crx decompress plugin
 
 ## Install
 
 ```bash
-$ npm install --save decompress-unzip
+$ npm install --save decompress-crx
 ```
 
 ## Usage
