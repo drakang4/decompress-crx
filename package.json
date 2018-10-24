@@ -1,0 +1,27 @@
+{
+  "name": "decompress-crx",
+  "version": "1.0.0",
+  "description": "decompress crx plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "author": "Heeryong Kang <drakang4@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "decompress",
+    "decompressplugin",
+    "crx"
+  ],
+  "dependencies": {
+    "decompress-unzip": "^4.0.1",
+    "file-type": "^10.1.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "is-jpg": "^2.0.0"
+  }
+}
